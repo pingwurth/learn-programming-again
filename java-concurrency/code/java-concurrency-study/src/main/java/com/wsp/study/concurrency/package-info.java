@@ -1,4 +1,4 @@
 /**
- * 快速演示 - {@link com.wsp.study.concurrency.quickdemo}
+ * @see com.wsp.study.concurrency.quickdemo 【快速演示】
  */
 package com.wsp.study.concurrency;
