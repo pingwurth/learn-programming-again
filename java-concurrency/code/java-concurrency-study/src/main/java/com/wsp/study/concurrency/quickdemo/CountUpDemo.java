@@ -46,7 +46,7 @@ public class CountUpDemo {
     public static void main(String[] args) {
 
         // 同步执行的方案
-        syncProgramme();
+//        syncProgramme();
 
         // 异步执行的方案
         asyncProgramme();
